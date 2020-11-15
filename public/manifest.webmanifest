@@ -1,0 +1,10 @@
+{   "short_name": "Budget",
+    "name": "Budget Tracker",
+    "description": "Budget Tracking app",
+    "icons": [
+    {
+      "src": "public/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }]
+}
